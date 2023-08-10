@@ -45,8 +45,7 @@ O arquivo <b>server.js</b> deve estar dentro do backend e após fazer essa verif
 npm init
 ```
 
-Logo em seguida devemos fazer a estrutura de pasta começando
-<br>
+Logo em seguida devemos fazer a estrutura de pasta começando<br>
 <img src="./img/src.png">
 
 <p style='font-size:13px; margin-left: 6px;'><b>src</b> A pasta "src" (source) em um projeto de backend geralmente é usada para armazenar o código-fonte do aplicativo. Ela contém os arquivos JavaScript, TypeScript, ou qualquer outra linguagem de programação que você esteja usando para desenvolver a lógica do servidor.
