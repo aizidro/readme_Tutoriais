@@ -1,7 +1,7 @@
 const express = require('express')
 const cors = require('cors')
 
-const router = require('./src/routes/rota.js')
+const router = require('./src/routes/routes.js')
 
 const app = express()
 app.use(express.json())
