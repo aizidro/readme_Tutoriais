@@ -64,6 +64,9 @@ Logo em seguida devemos fazer a estrutura de pasta começando<br>
 Criando um CRUD
 
 <p style='font-size:13px; margin-left: 5px'>O que é CRUD?</p>
+
+<p style='font-size:12px; margin-left: 10px'><b>R:</b> CRUD é um acrônimo em inglês que representa quatro operações fundamentais que são comuns em sistemas de gerenciamento de bancos de dados e aplicações web:</p>
+
 <p style='font-size:13px; margin-left: 10px;'><b>Create</b> (Criar): Essa operação envolve a criação de novos registros ou entradas no banco de dados. Por exemplo, ao preencher um formulário de registro em um site, você está criando um novo registro de usuário.</p>
 
 - Exemplo:
